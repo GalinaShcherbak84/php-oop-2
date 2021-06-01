@@ -1,0 +1,30 @@
+header{
+    padding: 10px;
+    background: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+main{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+}
+.prod{
+    padding:20px;
+    margin:5px;
+    background: lightgray;
+    width: 150px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+p{
+    color: red;
+}
